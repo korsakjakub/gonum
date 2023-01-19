@@ -1,4 +1,4 @@
-module gonum.org/v1/gonum
+module github.com/korsakjakub/gonum
 
 go 1.18
 
